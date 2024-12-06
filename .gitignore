@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Logs and debug files
+*.log
+
+# AWS credentials
+.aws/
+
+# SageMaker and other temporary files
+*.joblib
+*.tar.gz
+output/
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
